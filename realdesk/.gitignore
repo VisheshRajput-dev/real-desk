@@ -55,8 +55,6 @@ out/
 *.tsbuildinfo
 .esbuild
 .esbuild*/
-vite.config.ts
-vite.config.js
 vite-output
 vite-output/
 
